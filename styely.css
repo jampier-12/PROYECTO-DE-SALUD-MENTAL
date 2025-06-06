@@ -121,7 +121,7 @@ footer {
 }
 .video-wrapper {
   position: relative;
-  padding-bottom: 56.25%; /* Proporción 16:9 */
+  padding-bottom: 56.25%; /* Proporción 16:09 */
   height: 0;
   overflow: hidden;
   max-width: 100%;
